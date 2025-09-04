@@ -1,8 +1,9 @@
 {
   "name": "Шахматы",
   "short_name": "Шахматы",
-  "description": "Играй в шахматы с компьютером прямо в браузере!",
-  "start_url": ".",
+  "description": "Играй в шахматы с компьютером!",
+  "start_url": "/chess-pwa/",
+  "scope": "/chess-pwa/",
   "display": "standalone",
   "background_color": "#667eea",
   "theme_color": "#667eea",
@@ -19,5 +20,4 @@
       "type": "image/png"
     }
   ]
-
 }
